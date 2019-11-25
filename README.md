@@ -13,7 +13,7 @@ This repository contains all of the policies that we use at Comake. It represent
 
 ## Introduction
 * [Mission Statement](https://github.com/comake/handbook/blob/master/Mission%20Statement.md)
-* [Comake Values](https://github.com/comake/handbook/blob/master/comake%20Values.md)
+* [Comake Values](https://github.com/comake/handbook/blob/master/Comake%20Values.md)
 
 ## Employment Policies
 * [Equal Opportunity Employment](https://github.com/comake/handbook/blob/master/Employment%20Policies/Equal%20Opportunity%20Employment.md)
