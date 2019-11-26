@@ -27,7 +27,7 @@ This repository contains all of the policies that we use at Comake. It represent
 
 ## Hiring Documents
 * [Acknowledgement of Receipt](https://github.com/comake/handbook/blob/master/Hiring%20Documents/Acknowledgment%20of%20Receipt.md)
-* [Comake Offer Letter](https://github.com/comake/handbook/blob/master/Hiring%20Documents/comake%20Offer%20Letter.md)
+* [Comake Offer Letter](https://github.com/comake/handbook/blob/master/Hiring%20Documents/Comake%20Offer%20Letter.md)
 * [Employee Proprietary Information and Inventions Agreement](https://github.com/comake/handbook/blob/master/Hiring%20Documents/Employee%20Proprietary%20Information%20and%20Inventions%20Assignment%20Agreement.md)
 * [Guide to Your Equity](https://github.com/comake/handbook/blob/master/Hiring%20Documents/Guide%20to%20Your%20Equity.md)
 * [Handbook Introduction](https://github.com/comake/handbook/blob/master/Hiring%20Documents/Handbook%20Introduction.md)
