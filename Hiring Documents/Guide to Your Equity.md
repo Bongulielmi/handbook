@@ -1,6 +1,8 @@
 # Guide to Your Equity
 
-There are currently **4,662,658** shares of Clef common stock outstanding.
+## Please disregard this. It has not been fully updated to reflect Comake's policies. 
+
+There are currently **1,000,000** shares of Comake common stock outstanding.
 
 Our 409A Valuation Report, which discusses the price per share of employee shares, is available (to employees only) [here](https://drive.google.com/open?id=0Bwj0rVaUQUXPaXREcklsZ0xuNTA). Any employee with questions about the report, our share price, or valuation should ask B.
 
