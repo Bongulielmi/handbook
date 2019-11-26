@@ -1,6 +1,8 @@
+## Please disregard this for now. It has not been updated to reflect Comake's policies.
+
 Welcome to Clef, **FIRST_NAME**!
 
-We are excited to extend an official offer for you to join the Clef team as **a/the TITLE**. This offer letter will go over the basics of working at Clef, but there are a lot more details in our [Employee Handbook](https://github.com/clef/handbook). If you have any questions that aren’t in this letter or the handbook, please let me know.
+We are excited to extend an official offer for you to join the Clef team as **a/the TITLE**. This offer letter will go over the basics of working at Clef, but there are a lot more details in our [Employee Handbook](https://github.com/comake/handbook). If you have any questions that aren’t in this letter or the handbook, please let me know.
 
 In our conversation, you said you wanted to take the **EQUITY/SALARY** heavy offer, so your starting salary will be **SALARY** per year and you will be recommended for an option to purchase **SHARES** shares of Clef’s common stock. There are **OUTSTANDING SHARES** shares of Clef common stock outstanding, and your shares will vest over six years, with a one year cliff.
 
@@ -8,21 +10,21 @@ Equity at startups is complicated, so we’ve created a [Guide to Your Equity](h
 
 The best perk of working at Clef is your incredible new coworkers, but you’re also entitled to all of the benefits that apply to you from our benefits plan. These currently include:
 
-* [Healthcare, Dental, Vision](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
+* [Healthcare, Dental, Vision](https://github.com/comake/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
 
-* [Short and Long Term Disability Insurance](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
+* [Short and Long Term Disability Insurance](https://github.com/comake/handbook/blob/master/Benefits%20and%20Perks/Healthcare%20and%20Disability%20Insurance.md)
 
-* [Three weeks vacation (15 days PTO)](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
+* [Three weeks vacation (15 days PTO)](https://github.com/comake/handbook/blob/master/Benefits%20and%20Perks/Vacation%20and%20Sick%20Leave.md)
 
-* [Holidays](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
+* [Holidays](https://github.com/comake/handbook/blob/master/Benefits%20and%20Perks/Holiday%20List.md)
 
-* [A quarter-long (12 week) paid sabbatical every 5 years working at Clef](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
+* [A quarter-long (12 week) paid sabbatical every 5 years working at Comake](https://github.com/comake/handbook/blob/master/Benefits%20and%20Perks/Sabbatical.md)
 
-* [12 weeks paid new parent (maternity/paternity) leave](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
+* [12 weeks paid new parent (maternity/paternity) leave](https://github.com/comake/handbook/blob/master/Benefits%20and%20Perks/New%20Parent%20Leave.md)
 
-* [Continuing education stipend for industry-related conferences, seminars, coaching, or mentorship activities](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
+* [Continuing education stipend for industry-related conferences, seminars, coaching, or mentorship activities](https://github.com/comake/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
 
-* [Flights and hotels covered for speaking at industry conferences](https://github.com/clef/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
+* [Flights and hotels covered for speaking at industry conferences](https://github.com/comake/handbook/blob/master/Benefits%20and%20Perks/Continuing%20Education.md)
 
 The benefits we offer will adapt to the team’s needs over time and we evaluate and adjust compensation at the beginning of each year (around January).
 
