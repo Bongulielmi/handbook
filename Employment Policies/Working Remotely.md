@@ -8,7 +8,7 @@ This policy is written in the context of our current company setup, which is tha
 * An employee who works from the office 1wk/month or is remote for the majority of their time
 * A team that is distributed
 
-If and when the current company setup changes, we should address the above situations. For the purpose of this document, we interpret remote work as as a co-located employee of Clef working from home or from somewhere irregular. 
+If and when the current company setup changes, we should address the above situations. For the purpose of this document, we interpret remote work as as a co-located employee of Comake working from home or from somewhere irregular. 
 
 ## Approach
 
@@ -30,7 +30,7 @@ The guidelines in this document (and the handbook at large) give us tools to mak
 
 ## Policies
 
-The majority of policies that support remote work in Clef apply to everyone at Clef, not just remote workers. The primary documents that outline these policies are:
+The majority of policies that support remote work in Comake apply to everyone at Comake, not just remote workers. The primary documents that outline these policies are:
 
 * [Effective Meetings](https://github.com/clef/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 * [Communication and Transparency](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
