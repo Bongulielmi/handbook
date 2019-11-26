@@ -1,5 +1,7 @@
 # Employee Proprietary Information and Inventions Assignment Agreement
 
+## Please disregard this for now. This has not yet been updated to reflect Comake's policies.
+
 **CLEF, INC.**
 
 THIS EMPLOYEE PROPRIETARY INFORMATION AND INVENTIONS ASSIGNMENT AGREEMENT (this "Agreement"), is made by and between Clef, Inc. (the “Company”), and the undersigned individual (“Employee”).  In consideration of Employee’s employment with the Company, and for other good and valuable consideration, the receipt and sufficiency of which are hereby acknowledged, Employee hereby agrees to the following restrictions placed on Employee’s use and development of proprietary information, technology, ideas and inventions:
@@ -79,7 +81,14 @@ Signature: ________________________
 
 1.	Proprietary Information.
 
-Except as set forth below, Employee acknowledges that at this time (or, in the event this schedule is being executed subsequent to the commencement of Employee’s employment by the Company, at the time of commencement of Employee’s employment by the Company) Employee knows nothing about the business or Proprietary Information of Clef, Inc. (the "Company"), other than information Employee has learned from the Company in the course of being hired:  	******************
+Except as set forth below, Employee acknowledges that at this time (or, in the event this schedule is being executed subsequent to the commencement of Employee’s employment by the Company, at the time of commencement of Employee’s employment by the Company) Employee knows nothing about the business or Proprietary Information of Clef, Inc. (the "Company"), other than information Employee has learned from the Company in the course of being hired:  	
+
+***
+***
+***
+***
+***
+***
 
 2.	Prior Inventions.  
 
