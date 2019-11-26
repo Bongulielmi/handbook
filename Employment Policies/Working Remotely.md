@@ -35,7 +35,7 @@ The majority of policies that support remote work in Comake apply to everyone at
 * [Effective Meetings](https://github.com/clef/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 * [Communication and Transparency](https://github.com/clef/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
 
-## Time Tracking
+### Time Tracking
 
 We strongly encourage all employees to record their working hours at all times with as much detail as possible. This adds a level of transparency across the organization so that we can all see what each other is working on and when. If you are working remotely or working non-standard hours, tracking your hours using the company's Toggl is even more important so that your colleagues can better understand when you're working and what you're working on. 
 
