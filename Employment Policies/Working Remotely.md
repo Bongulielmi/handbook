@@ -1,5 +1,7 @@
 # Working Remotely
 
+Full time employees are expected to be working and available during normal office hours, which for Comake is 9am - 6pm Los Angeles time. Any deviation from this working schedule should be agreed upon in writing between the employee and his/her manager.
+
 ## Scope
 
 This policy is written in the context of our current company setup, which is that every employee works in the same office for the most of the work week. Specifically, this document addresses working from home on a regular basis and/or working remotely for up to one week out of any given month. It does not address:
