@@ -1,6 +1,6 @@
 # Working Remotely
 
-Full time employees are expected to be working and available during normal office hours, which for Comake is 9am - 6pm Los Angeles time. Any deviation from this working schedule should be agreed upon in writing between the employee and his/her manager.
+Full time employees are expected to be working and available during normal office hours, which for Comake is 9am - 6pm Los Angeles time. This means employees should at least have both Tandem and Slack open while they are doing work for Comake. Any deviation from this working schedule or structure should be agreed upon in writing between the employee and his/her manager.
 
 ## Scope
 
