@@ -1,7 +1,5 @@
 # Working Remotely
 
-Full time employees are expected to be working and available during normal office hours, which for Comake is 9am - 6pm Los Angeles time. This means employees should at least have both Tandem and Slack open while they are doing work for Comake. Any deviation from this working schedule or structure should be agreed upon in writing between the employee and his/her manager.
-
 ## Scope
 
 This policy is written in the context of our current company setup, which is that every employee works in the same office for the most of the work week. Specifically, this document addresses working from home on a regular basis and/or working remotely for up to one week out of any given month. It does not address:
@@ -16,7 +14,7 @@ If and when the current company setup changes, we should address the above situa
 
 We treat working remotely as a privilege that comes with both benefits and costs.
 
-The benefits are primarily ones of flexibility: as individuals, we are able to work when we want to and where we want to. This lets us do our best work and contribute to our team in a custom-crafted framework that lets us lead more fulfilling lives. The costs are primarily ones of communication: being out of the office means more base-line work and incidental complexity for all employees. More is required of both the remote employee and the employees in the office to keep in sync, collaborate, and own the work we do in a visible way. 
+The benefits are primarily ones of flexibility: as individuals, we are able to work when we want to and where we want to. This lets us do our best work and contribute to our team in a custom-crafted framework that lets us lead more fulfilling lives. The costs are primarily ones of communication: being out of the office means more base-line work and incidental complexity for all employees. More is required of both the remote employee and the employees in the office to keep in sync, collaborate, and own the work we do in a visible way.
 
 When we work remotely, it's our responsibility to accept the benefits graciously, and go above and beyond to not let the costs affect our work or the work of our teammates. A remote workday:
 
@@ -36,6 +34,10 @@ The majority of policies that support remote work in Comake apply to everyone at
 
 * [Effective Meetings](https://github.com/comake/handbook/blob/master/Operations%20Documents/Effective%20Meetings.md)
 * [Communication and Transparency](https://github.com/comake/handbook/blob/master/Onboarding%20Documents/Communication%20and%20Transparency.md)
+
+## Baseline Expectations
+
+Full time employees are expected to be working and available during normal office hours, which for Comake is 9am - 6pm Los Angeles time. This means employees should at least have both Tandem and Slack open while they are doing work for Comake. Any deviation from this working schedule or structure should be agreed upon in writing between the employee and his/her manager.
 
 ### Time Tracking
 
